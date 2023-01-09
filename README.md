@@ -10,4 +10,7 @@ This game was coded using the python programming language (Python 3.10) and by u
 
 If you don't know how to play the game, check out instructions.txt in the 'info' file attached.
 
+*To play the game, download all files and drag them into the same directory in your IDE (visual studio code works) and press the run button. 
+*Progress is automatically stored in the game_data file. It is currently empty and files will be created automatically.
+
 -- BlueTot (developer)
