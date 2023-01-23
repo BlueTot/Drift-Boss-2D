@@ -13,6 +13,6 @@ If you don't know how to play the game, check out instructions.txt in the 'info'
 
 WEEKLY UPDATE:
 
-- Update 1.1 is releasing in the next 2 weeks with new features!
+- Update 1.1 is releasing in the next week with new features!
 
 -- BlueTot (developer)
