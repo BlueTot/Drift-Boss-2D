@@ -11,8 +11,18 @@ If you don't know how to play the game, check out instructions.txt in the 'info'
 *To play the game, download all files and drag them into the same directory in your IDE (visual studio code works) and press the run button. 
 *Progress is automatically stored in the game_data file. When you quit the game, your progress will be updated to the file
 
-WEEKLY UPDATE:
+THE NEXT UPDATE (coming this week) is UPDATE 1.1 with:
+  - splitting of the main code file into 6 subfiles and 1 main file
+  - introduction of health and mana
+  - introduction of 5 reforges
+  - tweaks and balancing
 
-- Update 1.1 is releasing in the next week with new features!
-
+FUTURE IDEAS/UPDATES:
+  - update 1.2: movement changes
+  
+  - other ideas include:
+    - essence to upgrade car levels (not coins)
+    - 5 new maps (4 normal maps and 1 endgame boss)
+    - elemental damage and elemental defense
+    
 -- BlueTot (developer)
