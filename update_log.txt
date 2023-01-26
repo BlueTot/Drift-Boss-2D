@@ -136,3 +136,7 @@ DRIFT BOSS 2D UPDATE LOG
     - [MINOR] v1.1_pre8 - 17/1/2023
     - [MINOR] v1.1_pre9 - 25/1/2023
     - [FINAL] v1.1 - 25/1/2023
+
+[MAJOR] UPDATE 1.2: Movement & Mechanics Changes
+    - [FIRST] v1.2_pre2 - ???
+    - [FINAL] v1.2 - ???
