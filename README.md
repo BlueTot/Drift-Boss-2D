@@ -15,10 +15,5 @@ If you don't know how to play the game, check out instructions.txt in the 'info'
 
 FUTURE IDEAS/UPDATES:
   - update 1.2: movement changes
-  
-  - other ideas include:
-    - essence to upgrade car levels (not coins)
-    - 5 new maps (4 normal maps and 1 endgame boss)
-    - elemental damage and elemental defense
     
 -- BlueTot (developer)
