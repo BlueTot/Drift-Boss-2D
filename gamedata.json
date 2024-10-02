@@ -1,0 +1,174 @@
+{
+    "carstats": {
+        "Green Car": {
+            "lvl": 0,
+            "lvl cost": 0,
+            "upgraded rarity": false,
+            "locked": false,
+            "reforge": null
+        },
+        "Yellow Car": {
+            "lvl": 0,
+            "lvl cost": 0,
+            "upgraded rarity": false,
+            "locked": true,
+            "reforge": null
+        },
+        "Blue Car": {
+            "lvl": 0,
+            "lvl cost": 0,
+            "upgraded rarity": false,
+            "locked": true,
+            "reforge": null
+        },
+        "Black Car": {
+            "lvl": 0,
+            "lvl cost": 0,
+            "upgraded rarity": false,
+            "locked": true,
+            "reforge": null
+        },
+        "Taxi": {
+            "lvl": 0,
+            "lvl cost": 0,
+            "upgraded rarity": false,
+            "locked": true,
+            "reforge": null
+        },
+        "Police Car": {
+            "lvl": 0,
+            "lvl cost": 0,
+            "upgraded rarity": false,
+            "locked": true,
+            "reforge": null
+        },
+        "Ambulance": {
+            "lvl": 0,
+            "lvl cost": 0,
+            "upgraded rarity": false,
+            "locked": true,
+            "reforge": null
+        },
+        "Fire Truck": {
+            "lvl": 0,
+            "lvl cost": 0,
+            "upgraded rarity": false,
+            "locked": true,
+            "reforge": null
+        },
+        "Bus": {
+            "lvl": 0,
+            "lvl cost": 0,
+            "upgraded rarity": false,
+            "locked": true,
+            "reforge": null
+        },
+        "Race Car": {
+            "lvl": 0,
+            "lvl cost": 0,
+            "upgraded rarity": false,
+            "locked": true,
+            "reforge": null
+        },
+        "Spaceship": {
+            "lvl": 0,
+            "lvl cost": 0,
+            "upgraded rarity": false,
+            "locked": true,
+            "reforge": null
+        },
+        "Drifter": {
+            "lvl": 0,
+            "lvl cost": 0,
+            "upgraded rarity": false,
+            "locked": true,
+            "reforge": null
+        },
+        "Timewarp": {
+            "lvl": 0,
+            "lvl cost": 0,
+            "upgraded rarity": false,
+            "locked": true,
+            "reforge": null
+        },
+        "Fortunate": {
+            "lvl": 0,
+            "lvl cost": 0,
+            "upgraded rarity": false,
+            "locked": true,
+            "reforge": null
+        },
+        "Midas' Car": {
+            "lvl": 0,
+            "lvl cost": 0,
+            "upgraded rarity": false,
+            "locked": true,
+            "reforge": null
+        }
+    },
+    "player": {
+        "pb": 0,
+        "coins": 3.0,
+        "car fragments": 0,
+        "lvl": 0,
+        "exp": 0
+    },
+    "ach": {
+        "GET A PB OF 500 SCORE": {
+            "achieved": false,
+            "claimed rewards": false
+        },
+        "GET THE TAXI CAR": {
+            "achieved": false,
+            "claimed rewards": false
+        },
+        "BUY A LEVEL 4 BOOSTER": {
+            "achieved": false,
+            "claimed rewards": false
+        },
+        "ACQUIRE A TOTAL OF 500 COINS": {
+            "achieved": false,
+            "claimed rewards": false
+        },
+        "REACH LEVEL 25": {
+            "achieved": false,
+            "claimed rewards": false
+        },
+        "GET AN EPIC CAR": {
+            "achieved": false,
+            "claimed rewards": false
+        },
+        "GET A LEGENDARY CAR": {
+            "achieved": false,
+            "claimed rewards": false
+        },
+        "GET A LV. 5 CAR": {
+            "achieved": false,
+            "claimed rewards": false
+        },
+        "UPGRADE THE RARITY OF A CAR": {
+            "achieved": false,
+            "claimed rewards": false
+        },
+        "GET 3K SCORE WITH THE GREEN CAR": {
+            "achieved": false,
+            "claimed rewards": false
+        },
+        "COMPLETE A RUN IN UNDER 2 MINUTES": {
+            "achieved": false,
+            "claimed rewards": false
+        },
+        "REACH LEVEL 50": {
+            "achieved": false,
+            "claimed rewards": false
+        },
+        "MAX OUT THE MIDAS' CAR": {
+            "achieved": false,
+            "claimed rewards": false
+        },
+        "REACH LEVEL 100": {
+            "achieved": false,
+            "claimed rewards": false
+        }
+    }
+}
